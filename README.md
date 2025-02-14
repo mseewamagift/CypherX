@@ -2,7 +2,7 @@
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.0.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
+  <a href="https://github.com/mseewamagift/Jamesv1">
     <img alt="https://files.catbox.moe/xw348m.jpg" height="250" src="https://files.catbox.moe/xw348m.jpg">
   </a>
 </p>
@@ -12,21 +12,21 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://files.catbox.moe/xw348m.jpg"></a>
+<a href="https://github.com/mseewamagift"><img title="Author" src="https://files.catbox.moe/xw348m.jpg"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watching&style=social"></a>
+<a href="https://github.com/mseewamagift/Jamesv1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mseewamagift/Jamesv1?&style=social"></a>
+<a href="https://github.com/mseewamagift/Jamesv1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mseewamagift/Jamesv1?style=social"></a>
+<a href="https://github.com/mseewamagift/Jamesv1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mseewamagift/Jamesv1?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="XPLOADER--BOT:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mseewamagift}/count.svg" alt="Jamesv1:: Visitor's Count" /></p>
 
 
-## `SETUP`
+## `james tech`
 
 <p align="center">
-  <a href='https://github.com/Dark-Xploit/CypherX/fork' target="_blank" style="margin-right: 10px;">
-    <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/>
+  <a href='https://github.com/mseewamagift/Jamesv1/fork' target="_blank" style="margin-right: 10px;">
+    <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=green&color=red'/>
   </a>
   <a href='https://xploader-pair.onrender.com/' target="_blank">
     <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange'/>
