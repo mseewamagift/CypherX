@@ -1,9 +1,9 @@
 <h1 align="center"> 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗕𝗬 𝗝𝗔𝗠𝗘𝗦 </h1>
-<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.2.0 </h1>
+<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.0.0 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="https://files.catbox.moe/xw348m.jpg" height="250" src="https://i.ibb.co/DRW8wCV/https://files.catbox.moe/xw348m.jpg">
+    <img alt="https://files.catbox.moe/xw348m.jpg" height="250" src="https://files.catbox.moe/xw348m.jpg">
   </a>
 </p>
     
