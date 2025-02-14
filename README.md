@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗕𝗬 𝗝𝗔𝗠𝗘𝗦 </h1>
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.2.0 </h1>
 
 <p align="center">
@@ -103,7 +103,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 </details>
 
 ##
-<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘 𝗕𝗬 𝗝𝗔𝗠𝗘𝗦 𝗧𝗘𝗖𝗛!
 </h2>
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
