@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="xploader docs" height="250" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
+    <img alt="xploader docs" height="250" src="https://i.ibb.co/DRW8wCV/https://files.catbox.moe/xw348m.jpg">
   </a>
 </p>
     
