@@ -1,38 +1,38 @@
 {
-  "name": "CypherX",
+  "name": "James md",
   "version": "1.2.0",
-  "description": "CypherX, the best WhatsApp Bot",
-  "logo": "https://i.ibb.co/DRW8wCV/Xploader4.jpg",
+  "description": "James md, the best WhatsApp Bot",
+  "logo": "https://files.catbox.moe/xw348m.jpg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/mseewamagift/Jamesv1",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~",
+      "description": "Enter your James md session id here; must start with Jamesv1:~",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "CypherX",
+      "value": "James md",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "254754783972",
+      "value": "254785016388",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "Tylor",
+      "value": "James",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Cypher",
+      "value": "James",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
