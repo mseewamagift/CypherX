@@ -28,7 +28,7 @@
   <a href='https://github.com/mseewamagift/Jamesv1/fork' target="_blank" style="margin-right: 10px;">
     <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=green&color=red'/>
   </a>
-  <a href='https://xploader-pair.onrender.com/' target="_blank">
+  <a href='https://James-pair.onrender.com/' target="_blank">
     <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange'/>
   </a>
 </p>
@@ -58,7 +58,7 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
   
-## `CLONE REPO & INSTALLATION DEPENDENCIES`
+## `NO CLONING & INSTALLATION DEPENDENCIES`
 ```bash
 git clone https://github.com/mseewamagift/James md.git
 cd James md
