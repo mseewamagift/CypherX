@@ -1,11 +1,11 @@
-  //project_name : CypherX
-// @author : TYLOR
+  //project_name : Jamesv1
+// @author : James
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
-// @telegram : t.me/heyits_tylor
-// @github : Dark-Xploit
-// @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @instagram : james tech
+// @telegram : t.me/jamestechke
+// @github : mseewamagift 
+// @tiktok : rapstar
+// @whatsapp : +254785016388
 //*
 //* 
 //=================================================//
@@ -19,11 +19,11 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'JAMES MD' 
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '254785016388' 
 //Type your main number here
 
 //=================================================//
@@ -32,17 +32,17 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'James' 
 //Type your name here
 
 //=================================================//
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
 //=================================================//
-global.wm = process.env.GL_WM || "©CypherX"
+global.wm = process.env.GL_WM || "©James"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "James" 
 //The sticker pack name
 
 //=================================================//
@@ -114,7 +114,7 @@ global.menustyle = process.env.MENU_STYLE || '2'
 //Replies
 global.mess = { 
   done: '*Done*', 
-  success: '©CypherX', 
+  success: '©james', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
