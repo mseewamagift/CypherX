@@ -34,13 +34,13 @@
 </p>
 
 
-## `DEPLOYMENTS`
+## `DEPLOYMENTS FOR JAMES MD`
 
   <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/CypherX" target="_blank" style="margin-right: 10px;">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/mseewamagift/Jamesv1" target="_blank" style="margin-right: 10px;">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
-  <a href="https://repl.it/github/Dark-Xploit/XPLOADER--BOT" target="_blank">
+  <a href="https://repl.it/github/mseewamagift/Jamesv1" target="_blank">
     <img alt="Deploy on Repl.it" src="https://repl.it/badge/github/quiec/whatsAlfa"/>
   </a>
 </p>
@@ -60,8 +60,8 @@
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/XPLOADER--BOT.git
-cd XPLOADER--BOT
+git clone https://github.com/mseewamagift/James md.git
+cd James md
 npm start
 ```
 
@@ -106,4 +106,4 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘 𝗕𝗬 𝗝𝗔𝗠𝗘𝗦 𝗧𝗘𝗖𝗛!
 </h2>
 
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
+- This bot is made by tailor and cloned by James tech for educational purposes `only` hence `DO NOT MISUSE`.
